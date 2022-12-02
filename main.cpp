@@ -14,7 +14,7 @@ typedef struct cell
 
 //データを追加する関数のプロトタイプ宣言
 void create(CELL* head, int val);
-//一覧を表示する関数のプロトタイプ宣言
+//一覧を表示する関数のプロトタイプ宣言 
 void index(CELL* head);
 
 
